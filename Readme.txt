@@ -1,2 +1,1 @@
-salam
-
+An Ajax chat for wordpress
