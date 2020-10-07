@@ -1,1 +1,0 @@
-An Ajax chat for wordpress
